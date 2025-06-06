@@ -1,4 +1,8 @@
 # CSE702025-Nhom-10 dự án website bán quần áo 
+Thành viên:
+ 1.Nguyễn Văn Thắng: 23010234
+ 2. Hoàng Ân Nghĩa: 23010261
+ 3. Nguyễn Việt Hoàng: 23010279
           MÔ TẢ TRANG WEB:
 Chi tiết sản phẩm:
 

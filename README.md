@@ -5,29 +5,23 @@ BÁO CÁO GIỮA HỌC PHẦN
 Tên sản phẩm: Web bán quần áo
              Sinh viên thực hiện
         Nguyễn Văn Thắng – 23010234
-        Nguyễn Việt Hoàng –  23010279
-	      Hoàng Ân Nghĩa – 23010261
-      Nhóm 10
-      Giảng viên: Vũ Quang Dũng
+       Nguyễn Việt Hoàng –  23010279
+	Hoàng Ân Nghĩa – 23010261
+Nhóm 10
+Giảng viên: Vũ Quang Dũng
 Khoa Công Nghệ Thông Tin, Trường Đại Học Phenikaa
-          Tháng 06/2025
+Tháng 06/2025
 NHẬN XÉT CỦA GIẢNG VIÊN
 
-……………………………………………………………………………………………………………
-……………………………………………………………………………………………………………
-………………………………………………………………………………………………………………
-………………………………………………………………………………………………………………
-………………………………………………………………………………………………………………
-…………………………………………………………………………………………………………………
-…………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
 
 
-              BẢNG PHÂN CHIA CÔNG VIỆC
-Hoàng Ân Nghĩa:   	Làm báo cáo, vẽ biểu đồ, Làm slide, brochure
-Nguyễn Việt Hoàng:	Làm web giao diện và các chức năng
-Nguyễn Văn Thắng:   Làm web giao diện và các chức năng
+BẢNG PHÂN CHIA CÔNG VIỆC
+Hoàng Ân Nghĩa	Làm báo cáo, vẽ biểu đồ, Làm slide, brochure
+Nguyễn Việt Hoàng	Làm web giao diện và các chức năng
+Nguyễn Văn Thắng	
 
-                                      MỤC LỤC
+MỤC LỤC
 LỜI MỞ ĐẦU................................................................................... 4
 Danh mục hình ảnh, bảng biểu................................................................ 5
 1. GIỚI THIỆU..................................................................... 6
@@ -74,13 +68,13 @@ Danh mục hình ảnh, bảng biểu...........................................
 KẾT LUẬN......................................................................................... 22
 
 Giới thiệu dự án
-  Trong bản báo cáo này, nhóm chúng em tập trung vào việc xây dựng một trang web học tiếng Anh trực tuyến, nhằm mang đến cho người dùng một nền tảng hiệu quả và tiện lợi để nâng cao kỹ năng sử dụng tiếng Anh.      Trang web được thiết kế để hỗ trợ người học vượt qua những khó khăn thường gặp trong quá trình học tập, đồng thời tạo ra một môi trường học tập trực tuyến sinh động, thú vị và mang tính tương tác cao.
-  Báo cáo sẽ trình bày chi tiết quy trình xây dựng trang web, các chức năng và tính năng chính, cùng với các yêu cầu phi chức năng như hiệu năng, bảo mật và giao diện người dùng. Bên cạnh đó, nhóm cũng sẽ giới          thiệu các use-case và mô tả chi tiết từng trường hợp sử dụng, giúp làm rõ cách thức hoạt động và tương tác của người dùng với hệ thống.
-  Trang web hướng đến việc hỗ trợ người dùng ở mọi trình độ – từ cơ bản đến nâng cao – thông qua các bài học, bài luyện tập, bài kiểm tra và tài liệu học tập đa dạng. Ngoài ra, hệ thống cũng tích hợp các tính           năng hỗ trợ như trợ giúp trực tuyến, mục câu hỏi thường gặp (FAQ), gửi phản hồi, và xây dựng cộng đồng người học để chia sẻ kinh nghiệm và cùng tiến bộ.
-  Nhóm chúng em hy vọng rằng, trang web học tiếng Anh này sẽ mang lại cho người dùng một trải nghiệm học tập hiệu quả và linh hoạt, giúp họ xây dựng và nâng cao kỹ năng tiếng Anh một cách bền vững. Qua dự án             này, chúng em cũng mong muốn hoàn thiện hơn các kỹ năng về lập trình, thiết kế và phát triển sản phẩm công nghệ, từ đó tạo ra một nền tảng học tập mạnh mẽ và đáng tin cậy.
+Trong bản báo cáo này, nhóm chúng em tập trung vào việc xây dựng một trang web học tiếng Anh trực tuyến, nhằm mang đến cho người dùng một nền tảng hiệu quả và tiện lợi để nâng cao kỹ năng sử dụng tiếng Anh. Trang web được thiết kế để hỗ trợ người học vượt qua những khó khăn thường gặp trong quá trình học tập, đồng thời tạo ra một môi trường học tập trực tuyến sinh động, thú vị và mang tính tương tác cao.
+Báo cáo sẽ trình bày chi tiết quy trình xây dựng trang web, các chức năng và tính năng chính, cùng với các yêu cầu phi chức năng như hiệu năng, bảo mật và giao diện người dùng. Bên cạnh đó, nhóm cũng sẽ giới thiệu các use-case và mô tả chi tiết từng trường hợp sử dụng, giúp làm rõ cách thức hoạt động và tương tác của người dùng với hệ thống.
+Trang web hướng đến việc hỗ trợ người dùng ở mọi trình độ – từ cơ bản đến nâng cao – thông qua các bài học, bài luyện tập, bài kiểm tra và tài liệu học tập đa dạng. Ngoài ra, hệ thống cũng tích hợp các tính năng hỗ trợ như trợ giúp trực tuyến, mục câu hỏi thường gặp (FAQ), gửi phản hồi, và xây dựng cộng đồng người học để chia sẻ kinh nghiệm và cùng tiến bộ.
+Nhóm chúng em hy vọng rằng, trang web học tiếng Anh này sẽ mang lại cho người dùng một trải nghiệm học tập hiệu quả và linh hoạt, giúp họ xây dựng và nâng cao kỹ năng tiếng Anh một cách bền vững. Qua dự án này, chúng em cũng mong muốn hoàn thiện hơn các kỹ năng về lập trình, thiết kế và phát triển sản phẩm công nghệ, từ đó tạo ra một nền tảng học tập mạnh mẽ và đáng tin cậy.
 
-                DANH MỤC CÁC HÌNH ẢNH, BẢNG BIỂU
-      Hình ảnh
+DANH MỤC CÁC HÌNH ẢNH, BẢNG BIỂU
+Hình ảnh
 •	Hình 1. Giao diện đăng nhập
 •	Hình 2. Giao diện trang chủ hiển thị các sản phẩm
 •	Hình 3. Giao diện chi tiết sản phẩm
@@ -92,7 +86,7 @@ Giới thiệu dự án
 •	Hình 9. Biểu đồ use-case phân rã của người dùng
 •	Hình 10. Biểu đồ use-case phân rã của quản trị viên
 ________________________________________
-    Bảng biểu
+Bảng biểu
 •	Bảng 1. Từ điển thuật ngữ
 •	Bảng 2. Các chức năng chính của hệ thống bán quần áo
 •	Bảng 3. Đặc tả use-case Đăng nhập / Đăng ký

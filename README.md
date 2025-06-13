@@ -8,5 +8,9 @@ Tên sản phẩm: Web bán quần áo
 BẢNG PHÂN CHIA CÔNG VIỆC
 
 Hoàng Ân nghĩa:	Làm báo cáo, vẽ biểu đồ, Làm slide, brochure
+
+
 Nguyễn Văn Thắng: Làm web giao diện và các chức năng
+
+
 Nguyễn Việt Hoàng	: Làm web giao diện và các chức năng
